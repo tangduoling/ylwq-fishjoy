@@ -1,0 +1,64 @@
+﻿生成启动时间为 2015/1/26 22:16:07。
+     1>项目“E:\娱乐\游戏软件项目\源代码\YLWQ\YLWQ\YLWQ.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\YLWQ.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /IC:\code\hge181\include /ZI /nologo /W0 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Fish.cpp Func.cpp Game.cpp GameBack.cpp GCom.cpp G_Fish.cpp G_Loading.cpp G_Save.cpp G_Set.cpp main.cpp Player.cpp S_Font.cpp Textures.cpp
+         Textures.cpp
+     1>e:\娱乐\游戏软件项目\源代码\ylwq\ylwq\def.h(64): error C2146: 语法错误: 缺少“;”(在标识符“sysVersion”的前面)
+     1>e:\娱乐\游戏软件项目\源代码\ylwq\ylwq\def.h(64): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>e:\娱乐\游戏软件项目\源代码\ylwq\ylwq\def.h(64): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+         S_Font.cpp
+     1>e:\娱乐\游戏软件项目\源代码\ylwq\ylwq\def.h(64): error C2146: 语法错误: 缺少“;”(在标识符“sysVersion”的前面)
+     1>e:\娱乐\游戏软件项目\源代码\ylwq\ylwq\def.h(64): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>e:\娱乐\游戏软件项目\源代码\ylwq\ylwq\def.h(64): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+         Player.cpp
+     1>e:\娱乐\游戏软件项目\源代码\ylwq\ylwq\def.h(64): error C2146: 语法错误: 缺少“;”(在标识符“sysVersion”的前面)
+     1>e:\娱乐\游戏软件项目\源代码\ylwq\ylwq\def.h(64): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>e:\娱乐\游戏软件项目\源代码\ylwq\ylwq\def.h(64): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+         main.cpp
+     1>e:\娱乐\游戏软件项目\源代码\ylwq\ylwq\def.h(64): error C2146: 语法错误: 缺少“;”(在标识符“sysVersion”的前面)
+     1>e:\娱乐\游戏软件项目\源代码\ylwq\ylwq\def.h(64): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>e:\娱乐\游戏软件项目\源代码\ylwq\ylwq\def.h(64): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+         G_Set.cpp
+     1>e:\娱乐\游戏软件项目\源代码\ylwq\ylwq\def.h(64): error C2146: 语法错误: 缺少“;”(在标识符“sysVersion”的前面)
+     1>e:\娱乐\游戏软件项目\源代码\ylwq\ylwq\def.h(64): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>e:\娱乐\游戏软件项目\源代码\ylwq\ylwq\def.h(64): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+         G_Save.cpp
+     1>e:\娱乐\游戏软件项目\源代码\ylwq\ylwq\def.h(64): error C2146: 语法错误: 缺少“;”(在标识符“sysVersion”的前面)
+     1>e:\娱乐\游戏软件项目\源代码\ylwq\ylwq\def.h(64): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>e:\娱乐\游戏软件项目\源代码\ylwq\ylwq\def.h(64): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+         G_Loading.cpp
+     1>e:\娱乐\游戏软件项目\源代码\ylwq\ylwq\def.h(64): error C2146: 语法错误: 缺少“;”(在标识符“sysVersion”的前面)
+     1>e:\娱乐\游戏软件项目\源代码\ylwq\ylwq\def.h(64): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>e:\娱乐\游戏软件项目\源代码\ylwq\ylwq\def.h(64): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+         G_Fish.cpp
+     1>e:\娱乐\游戏软件项目\源代码\ylwq\ylwq\def.h(64): error C2146: 语法错误: 缺少“;”(在标识符“sysVersion”的前面)
+     1>e:\娱乐\游戏软件项目\源代码\ylwq\ylwq\def.h(64): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>e:\娱乐\游戏软件项目\源代码\ylwq\ylwq\def.h(64): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+         GCom.cpp
+     1>e:\娱乐\游戏软件项目\源代码\ylwq\ylwq\def.h(64): error C2146: 语法错误: 缺少“;”(在标识符“sysVersion”的前面)
+     1>e:\娱乐\游戏软件项目\源代码\ylwq\ylwq\def.h(64): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>e:\娱乐\游戏软件项目\源代码\ylwq\ylwq\def.h(64): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+         GameBack.cpp
+     1>e:\娱乐\游戏软件项目\源代码\ylwq\ylwq\def.h(64): error C2146: 语法错误: 缺少“;”(在标识符“sysVersion”的前面)
+     1>e:\娱乐\游戏软件项目\源代码\ylwq\ylwq\def.h(64): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>e:\娱乐\游戏软件项目\源代码\ylwq\ylwq\def.h(64): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+         Game.cpp
+     1>e:\娱乐\游戏软件项目\源代码\ylwq\ylwq\def.h(64): error C2146: 语法错误: 缺少“;”(在标识符“sysVersion”的前面)
+     1>e:\娱乐\游戏软件项目\源代码\ylwq\ylwq\def.h(64): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>e:\娱乐\游戏软件项目\源代码\ylwq\ylwq\def.h(64): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+         Func.cpp
+     1>e:\娱乐\游戏软件项目\源代码\ylwq\ylwq\def.h(64): error C2146: 语法错误: 缺少“;”(在标识符“sysVersion”的前面)
+     1>e:\娱乐\游戏软件项目\源代码\ylwq\ylwq\def.h(64): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>e:\娱乐\游戏软件项目\源代码\ylwq\ylwq\def.h(64): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+         Fish.cpp
+     1>e:\娱乐\游戏软件项目\源代码\ylwq\ylwq\def.h(64): error C2146: 语法错误: 缺少“;”(在标识符“sysVersion”的前面)
+     1>e:\娱乐\游戏软件项目\源代码\ylwq\ylwq\def.h(64): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>e:\娱乐\游戏软件项目\源代码\ylwq\ylwq\def.h(64): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+         正在生成代码...
+     1>已完成生成项目“E:\娱乐\游戏软件项目\源代码\YLWQ\YLWQ\YLWQ.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:09.17

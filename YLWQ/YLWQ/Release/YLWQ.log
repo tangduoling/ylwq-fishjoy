@@ -1,0 +1,33 @@
+﻿生成启动时间为 2012/4/12 15:24:00兰兰。
+     1>项目“J:\VS2010\YLWQ\YLWQ\YLWQ.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Release\YLWQ.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         g:\worksoftwere\WIN7 VS2010\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+       Link:
+         g:\worksoftwere\WIN7 VS2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"J:\VS2010\YLWQ\Release\YLWQ.exe" /INCREMENTAL:NO /NOLOGO hge.lib hgehelp.lib winmm.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /NODEFAULTLIB:libc.lib /MANIFEST /ManifestFile:"Release\YLWQ.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"J:\VS2010\YLWQ\Release\YLWQ.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"J:\VS2010\YLWQ\Release\YLWQ.lib" /MACHINE:X86 Release\Fish.obj
+         Release\Func.obj
+         Release\Game.obj
+         Release\GameBack.obj
+         Release\GCom.obj
+         Release\G_Fish.obj
+         Release\G_Loading.obj
+         Release\G_Save.obj
+         Release\G_Set.obj
+         Release\main.obj
+         Release\Player.obj
+         Release\Textures.obj
+         正在生成代码
+         已完成代码的生成
+         YLWQ.vcxproj -> J:\VS2010\YLWQ\Release\YLWQ.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"J:\VS2010\YLWQ\Release\YLWQ.exe;#1" /manifest Release\YLWQ.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Release\YLWQ.unsuccessfulbuild”。
+         正在对“Release\YLWQ.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“J:\VS2010\YLWQ\YLWQ\YLWQ.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.01
