@@ -54,9 +54,6 @@
     <ClInclude Include="G_Set.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="S_Font.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -93,9 +90,6 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="G_Set.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="S_Font.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

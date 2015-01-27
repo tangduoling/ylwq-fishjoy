@@ -54,18 +54,10 @@ class Game;
 #define SET_PRESSCODE   2
 #define SET_AUDIT       3
 #define SET_TELLAUDIT   4
-
-
 struct Pos
 {
 	float x;
 	float y;
-};
-struct SysInfo
-{
-	string sysVersion;
-	int pWidth;
-	int pHeight;
 };
 typedef struct typBullet
 {

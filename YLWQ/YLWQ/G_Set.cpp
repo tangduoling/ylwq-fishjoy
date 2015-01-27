@@ -70,7 +70,7 @@ G_Set::~G_Set(void)
 
 void G_Set::LoadTexture(void)
 {
-	m_phge->Resource_AttachPack("PIC\\Set.zip",0);
+	m_phge->Resource_AttachPack("..\\resource\\PIC\\Set.zip",0);
 	for(int i=0;i<4;i++)
 		m_texsetback[i]=m_phge->Texture_Load(cTex[i]);
 	m_sprsetback[0]=new hgeSprite(m_texsetback[0],0,0,1260,800);
@@ -177,7 +177,7 @@ void G_Set::LoadTexture(void)
 	  m_sprhelp[i]->SetHotSpot(63,13.5f);
 	}
 	m_phge->Resource_RemoveAllPacks();
-	m_phge->Resource_AttachPack("PIC\\Num.zip",0);
+	m_phge->Resource_AttachPack("..\\resource\\PIC\\Num.zip",0);
 	for(int i=0;i<10;i++)
 		m_texnum[i]=m_phge->Texture_Load(cTex[i]);
 	for(int i=0;i<7;i++)

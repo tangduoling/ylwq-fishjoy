@@ -49,7 +49,7 @@ G_Fish::~G_Fish(void)
 
 void G_Fish::LoadTexture(void)
 {
-    if(!m_phge->Resource_AttachPack("PIC\\Fishes.zip",0))
+    if(!m_phge->Resource_AttachPack("..\\resource\\PIC\\Fishes.zip",0))
 	   MessageBox(NULL,L"¼ÓÔØÍ¼Æ¬Ê§°Ü",L"´íÎóÌáÊ¾",MB_OK); 
 	for(int i=0;i<38;i++)
 	{

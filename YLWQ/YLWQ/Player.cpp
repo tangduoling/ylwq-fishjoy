@@ -38,7 +38,7 @@ Player::~Player(void)
 void Player::LoadTexture()
 {
 	//¼ÓÔØUIÍ¼Æ¬
-	m_phge->Resource_AttachPack("PIC\\UI.zip",0);
+	m_phge->Resource_AttachPack("..\\resource\\PIC\\UI.zip",0);
 	m_texCentCircle=m_phge->Texture_Load(cTex[0]);
 	m_sprCentCircle=new hgeSprite(m_texCentCircle,m_id*204.0f,0,204,63);
 	m_sprCentCircle->SetHotSpot(102,31.5f);

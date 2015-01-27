@@ -34,7 +34,7 @@ GameBack::~GameBack(void)
 
 void GameBack::LoadTexture(void)
 {
-  m_phge->Resource_AttachPack("PIC\\Back.zip",0);
+  m_phge->Resource_AttachPack("..\\resource\\PIC\\Back.zip",0);
   for(int i=0;i<3;i++)
    {
 	  m_texback[i]=m_phge->Texture_Load(cTex[i]);
@@ -109,7 +109,7 @@ void GameBack::LoadTexture(void)
 	 m_sprpp[i]->SetHotSpot(120,200);
    }
   //Ë®²¨
-   m_phge->Resource_AttachPack("PIC\\Water.zip",0);
+   m_phge->Resource_AttachPack("..\\resource\\PIC\\Water.zip",0);
    for(int i=0;i<27;i++)
    {
 	   m_texwater[i]=m_phge->Texture_Load(cTex[i]);

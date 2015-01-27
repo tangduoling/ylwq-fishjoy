@@ -101,7 +101,7 @@ void Game::GameRun(void)
 
 void Game::InitFont(void)
 {
-	  font=new hgeFont("PIC\\font1.fnt");
+	  font=new hgeFont("..\\resource\\PIC\\font1.fnt");
 	  font->SetColor(0Xffaaffcc);
 	  font->SetZ(0.0f); 
 }
