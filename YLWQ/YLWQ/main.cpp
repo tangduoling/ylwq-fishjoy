@@ -78,7 +78,7 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int)
 	hge->System_SetState(HGE_RENDERFUNC,RenderFunc);//设置绘制函数为Render函数 
 	hge->System_SetState(HGE_TITLE, "鱼乐无穷");//设置窗口标题为“显示图像”
 	hge->System_SetState(HGE_FPS, G_FPS);//设定最大FPS
-	hge->System_SetState(HGE_WINDOWED,true);//设置使用窗口模式 //false
+	hge->System_SetState(HGE_WINDOWED,false);//设置使用窗口模式 //false
 	hge->System_SetState(HGE_SCREENWIDTH, G_SCREENWIDTH);//将屏幕宽度设置为1440 
 	hge->System_SetState(HGE_SCREENHEIGHT,G_SCREENHEIGHT);//将屏幕高度设置为900 
 	//hge->System_SetState(HGE_SCREENBPP, 32);
