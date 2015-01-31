@@ -4,8 +4,8 @@ class Game;
 #define G_FPS   30  //最大FPS
 
 #define G_PLAYERNUM 2 //玩家数目
-#define G_SCREENWIDTH 1366 //屏幕宽
-#define G_SCREENHEIGHT 768 //屏幕高
+#define G_SCREENWIDTH 1300 //屏幕宽1366
+#define G_SCREENHEIGHT 728 //屏幕高768
 
 
 #define PI    4*atan(1.0f)  

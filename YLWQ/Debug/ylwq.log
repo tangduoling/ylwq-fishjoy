@@ -1,16 +1,17 @@
 HGE Started..
 
 HGE version: 1.80
-Date: 27.01.2015, 21:08:20
+Date: 31.01.2015, 14:51:47
 
 Application: ”„¿÷Œﬁ«Ó
 OS: Windows 6.2.9200
-Memory: 4104472K total, 682232K free
+Memory: 4104472K total, 1388816K free
 
 D3D Driver: nvumdshim.dll
 Description: Intel(R) HD Graphics 4600
 Version: 9.18.13.3523
-Mode: 1366 x 768 x X8R8G8B8
+Can't find appropriate full screen video mode
+Mode: 1300 x 728 x UNKNOWN
 
 Sound Device: —Ô…˘∆˜ (Realtek High Definition Audio)
 Sample rate: 44100
